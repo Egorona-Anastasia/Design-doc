@@ -1,0 +1,127 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage[T2A]{fontenc}
+\usepackage{hyperref}
+\usepackage[left=20mm, top=25mm, right=20mm, bottom=20mm,head=20mm, nofoot]{geometry}
+\usepackage{setspace}
+\onehalfspacing
+\setlength{\parskip}{1em}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+    pdftitle={Overleaf Example},
+    pdfpagemode=FullScreen,
+    }
+    
+\title{Диздок «Тайны старого дома»}
+\author{Анастасия Егорова, Анастасия Грачкова, Бухвалов Иван Артемович, \\Кузнецов Антон Васильевич, Сейтбаев Булат Маратович }
+\date{Ноябрь 2024}
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+
+\section{Введение}
+
+\section{Концепция}
+
+\subsection{Введение}
+
+\subsection{Жанр и аудитория}
+
+\subsection{Основные особенности игры}
+
+\subsection{Описание игры}
+
+\subsection{Предпосылки создания}
+
+\subsection{Платформа}
+\textit{Платформы, на которых планируется создание игры:} PC\par
+\textit{Минимальные требования для PC-платформы:}
+\begin{center}
+\begin{tabular}{ |c|c|c| } 
+ \hline
+  Требования & Минимальные & Рекомендуемые \\ 
+   \hline\hline
+ Операционная система & Windows 10 & Windows 10 \\ 
+ \hline
+ Процессор & Intel Core i3-2100 8 & Intel Core i5-2500 \\ 
+ \hline
+ ОЗУ	& 8 ГБ  & 16 ГБ \\ 
+ \hline
+ CD-ROM привод &	Не требуется &	Не требуется \\ 
+ \hline
+ Свободное место на HDD &	30 ГБ &	50 ГБ \\
+ \hline
+ Видео карта &	NVIDIA GTX 660 &	NVIDIA GTX 1060\\
+ \hline
+Звуковая карта &	Совместимая с DirectX &	Совместимая с DirectX\\
+\hline
+Управление &	Клавиатура и мышь &	Клавиатура и мышь\\
+ \hline
+\end{tabular}
+\end{center}\par
+Эти требования обеспечат оптимальную производительность и качество графики, что позволит игрокам полностью погрузиться игру.\par
+\textit{Дополнительное оборудование:} не требуется.
+
+\section{Функциональная спецификация}
+
+\subsection{Принципы игры}
+
+\subsubsection{Суть игрового процесса}
+
+\subsubsection{Ход игры и сюжет}
+
+\subsection{Физическая модель}
+
+\subsection{Персонаж игрока}
+
+\subsection{Элементы игры}
+
+\subsection{«Искусственный интеллект»}
+
+\subsection{Многопользовательский режим}
+
+\subsection{Интерфейс пользователя}
+
+\subsubsection{Блок-схема}
+
+\subsubsection{Функциональное описание и управление}
+
+\subsubsection{Объекты интерфейса пользователя}
+
+\subsection{Графика и видео}
+
+\subsubsection{Общее описание}
+
+\subsubsection{Двумерная графика и анимация}
+
+\subsubsection{Трехмерная графика и анимация}
+
+\subsubsection{Анимационные вставки}
+
+\subsection{Звуки и музыка}
+
+\subsubsection{Общее описание}
+
+\subsubsection{Звук и звуковые эффекты}
+
+\subsubsection{Музыка}
+
+\subsection{Описание уровней}
+
+\subsubsection{Общее описание дизайна уровней}
+
+\subsubsection{Диаграмма взаимного расположения уровней}
+
+\subsubsection{График введения новых объектов}
+
+\section{Контакты}
+
+\newpage
+
+\end{document}
