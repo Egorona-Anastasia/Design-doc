@@ -1,4 +1,6 @@
 # Design-doc
 ---
 *Выполнили:* Анастасия Егорова, Анастасия Грачкова, Бухвалов Иван Артемович, Кузнецов Антон Васильевич, Сейтбаев Булат Маратович <br>
-*Ссылка на overleaf:* https://www.overleaf.com/read/gqcrzxtqkxpp#8fcaa1
+*Ссылка на overleaf:* https://www.overleaf.com/read/gqcrzxtqkxpp#8fcaa1 <br>
+*Latex код* представлен на ветке master
+
