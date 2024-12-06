@@ -228,6 +228,24 @@ UI — User Interface (пользовательский интерфейс). \pa
 \subsection{Интерфейс пользователя}
 
 \subsubsection{Блок-схема}
+В данном разделе представлена блок-схема, иллюстрирующая структуру и логику работы системы. На блок-схеме показаны основные компоненты интерфейса игры, включая главное меню, игровое поле и систему пауз. Каждая из этих частей взаимодействует с игроком и влияет на игровой процесс.
+\begin{figure}[ht]
+\centering
+\includegraphics[width=0.9\linewidth]{Г.Меню.png}
+\caption{Главное меню}
+\end{figure}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[width=0.9\linewidth]{Система конца ур..png}
+\caption{Система завершения уровня}
+\end{figure}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[width=0.9\linewidth]{Система пауз.png}
+\caption{Система пауз}
+\end{figure}
 
 \subsubsection{Функциональное описание и управление}
 
