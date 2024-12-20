@@ -390,6 +390,23 @@ UI — User Interface (пользовательский интерфейс). \pa
 \subsubsection{График введения новых объектов}
 
 \section{Контакты}
+\subsection*{Контактные лица:}
+\begin{itemize}
+    \item {Егорова Анастасия Алексеевна} \\
+    \item {Грачкова Анастасия Александровна} \\
+    \item {Бухвалов Иван Артемович} \\
+    \item {Кузнецов Антон Васильевич} \\
+    \item {Сейтбаев Булат Маратович} \\
+\end{itemize}
+
+\subsection*{E-mail:}
+\begin{itemize}
+    \item Егорова Анастасия Алексеевна: aaegorova-15@edu.hse.ru
+    \item Грачкова Анастасия Александровна: aagrachkova@edu.hse.ru
+    \item Бухвалов Иван Артемович: iabukhvalov@edu.hse.ru
+    \item Кузнецов Антон Васильевич: anvakuznetsov@edu.hse.ru
+     \item Сейтбаев Булат Маратович: bmseitbaev@edu.hse.ru
+\end{itemize}
 
 \newpage
 
